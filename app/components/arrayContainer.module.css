@@ -1,0 +1,26 @@
+
+.mainContainer {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
+
+.title {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.typeContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.card {
+    padding: 5px 10px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    font-size: 12px;
+}

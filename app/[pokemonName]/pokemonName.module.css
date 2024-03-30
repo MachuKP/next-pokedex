@@ -1,0 +1,53 @@
+.mainContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokemonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.detailContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.datail {
+    font-weight: bold;
+}
+
+.pokemonImage {
+    height: 100px;
+}
+
+.title {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.pokemonNumber {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.mainEvolution {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.evolutionContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}

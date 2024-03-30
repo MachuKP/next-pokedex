@@ -1,0 +1,28 @@
+.pokemonImage {
+    height: 100px;
+}
+
+.title {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.pokemonNumber {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.mainEvolution {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.evolutionContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}

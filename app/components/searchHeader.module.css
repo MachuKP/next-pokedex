@@ -1,0 +1,17 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.input {
+    padding: 5px 10px;
+    box-shadow: 5px 5px 10px -5px;
+    border-radius: 5px;
+}
